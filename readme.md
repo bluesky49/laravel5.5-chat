@@ -120,8 +120,3 @@ Why? Because if you set to `localhost` **you can only access it from your PC. Yo
 
 > If you edit ***resources/assets/js/bootstrap.js***, you have to run `npm run dev` after you save the file. <br>
 If you want to easier way, you can set NPM to automatically watch the change on bootstrap.js after you save the file by running `npm run watch --dev`
-
-## Contact
-
-If you have any trouble while installing or using this application, feel free to get in touch with me on :
-- Email : [Fendi Septiawan](mailto:fendi.septiawan0709@gmail.com)
